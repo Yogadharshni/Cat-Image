@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYi24AjyWnScQvJu_cMmWnt6mV871H9t3rFA&usqp=CAU');
+}
+img{
+    height: 400px;
+    width: 500px;
+    object-fit: cover;
+}
+.pic{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 500px;
+    border: 2px black solid;
+
+}
+.maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 60px;
+}
+.btndiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
